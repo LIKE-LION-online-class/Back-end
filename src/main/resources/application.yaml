@@ -1,7 +1,7 @@
 spring:
   devtools:
     livereload:
-      enabled: false
+      enabled: true
   datasource:
     url: "jdbc:mysql://localhost:3306/restaurant"
     driverClassName: "com.mysql.cj.jdbc.Driver"
